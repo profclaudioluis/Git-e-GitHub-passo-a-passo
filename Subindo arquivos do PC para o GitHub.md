@@ -1,4 +1,4 @@
-# Subindo arquivos para o GitHub
+# Subindo arquivos do PC para o GitHub
 ## Passo a passo
 
 obs.: os passos a seguir servem se você já fez o downloand do repositório/pasta do GitHub para o seu diretório/pasta local atráves do __git clone__. Caso não saiba como fazer isso clique [AQUI](WWWWWWWWWWWWWW) para um rápido passo a passo.
