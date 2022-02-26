@@ -8,7 +8,7 @@ obs.: os passos a seguir servem se você já fez o downloand do repositório/pas
 3. Dê um **git add .** para adicionar todos os arquivos.
 4. Dê um **git status** para verificar se o Git entendeu que queremos subir o arquivo (O nome do arquivo aparece em vermelho)
 5. Dê um **git commit -m** e escreva o comentário do commit entre " ". (Ex.: **"Site Final 9.1.2.3**")
-6. Dê um **git push origin main" para enviar todas as mudanças feitas na pasta/diretório local para o Github.
+6. Dê um **git push origin main** para enviar todas as mudanças feitas na pasta/diretório local para o Github.
 
 
 
